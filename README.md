@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 To get started with Apktool GUI, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/Apktool-GUI-for-apk-decompilation/releases) page.
+1. Download the latest release from the [Releases](https://github.com/ajstyle8832/Apktool-GUi-based-for-apk-decompilation/releases) page.
 2. Extract the downloaded ZIP file to your preferred location.
 3. Run the executable file to launch the application.
 
@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [jagtapakash609@gmail.com](mailto:jagtapakash609@gmail.com)
 
-Project Link: [https://github.com/ajstyle8832/Apktool-GUI-for-apk-decompilation](https://github.com/ajstyle8832/Apktool-GUI-for-apk-decompilation)
+Project Link: [https://github.com/ajstyle8832/Apktool-GUI-for-apk-decompilation](https://github.com/ajstyle8832/Apktool-GUi-based-for-apk-decompilation)
 
 ## Acknowledgements
 
