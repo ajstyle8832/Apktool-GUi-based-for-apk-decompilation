@@ -56,9 +56,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [jagtapakash609@gmail.com](mailto:jagtapakash609@gmail.com)
 
-Project Link: [https://github.com/yourusername/Apktool-GUI-for-apk-decompilation](https://github.com/yourusername/Apktool-GUI-for-apk-decompilation)
+Project Link: [https://github.com/ajstyle8832/Apktool-GUI-for-apk-decompilation](https://github.com/ajstyle8832/Apktool-GUI-for-apk-decompilation)
 
 ## Acknowledgements
 
